@@ -1,14 +1,14 @@
-# Hi, I'm Annah Mweru 👋
+# Hi, I'm Annah Nichola 👋
 
-### Frontend Engineer | Angular & TypeScript | Building toward Full-Stack Development
+### I build frontend experiences that make complex systems easier to use
 
-I am a Frontend Engineer based in Kenya with 4+ years of experience building API-driven web applications for government and financial-services environments. My core strength is building maintainable Angular and TypeScript interfaces, integrating REST APIs, and supporting reliable production releases.
+I am a Frontend Engineer specialising in Angular and TypeScript, with 4+ years of experience working on government and financial-services applications. I enjoy turning complex, API-driven workflows into clear, secure, responsive interfaces that users can trust.
 
-I enjoy turning complex workflows into clear, responsive user experiences and writing clean, testable code.
+Currently building with Flutter and learning Java/Spring Boot as I grow toward full-stack engineering.
 
 ## What I work with
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, RxJS, NgRx
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3, RxJS, NgRx
 - **API integration:** REST APIs, JSON, SOAP/XML, Swagger/OpenAPI
 - **Testing:** Jest, Jasmine, JUnit, Mockito, Postman
 - **Backend foundations:** Java, Spring Boot, Node.js, PostgreSQL, MongoDB
@@ -27,9 +27,11 @@ I enjoy turning complex workflows into clear, responsive user experiences and wr
 - **Angular enterprise applications:** Built reusable components and API-driven workflows for land-search, lease-application, and sectional-registration journeys.
 - **Bulk certificate processing:** Built a Node.js service for batch generation and printing of Certificates of Title or Leases for approved sectional plans.
 - **Flutter projects:** Building mobile applications with Flutter and Dart.  
-  _Add your best Flutter repository links here._
+  _(https://github.com/annmweru/my-utils)._
+ - **React projects:** Building mobile applications with React.  
+  _(https://github.com/annmweru/VitalLink-Triage)._
 - **Spring Boot projects:** Building REST APIs and full-stack applications with Java and Spring Boot.  
-  _Add your best Spring Boot repository links here._
+  _(https://github.com/annmweru/02-oop-library-management)
 
 ## Find me online
 
