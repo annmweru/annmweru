@@ -1,7 +1,41 @@
-# 💫 About Me:
-### 💻 Frontend Engineer | Angular Specialist | UI/UX Thinker<br><br>Hi, I'm **Annah Mweru**  a Frontend Developer with 5+ years of experience building intuitive, scalable, and performant web apps. I specialize in **Angular** and **TypeScript**, with a strong focus on user-centric design and clean code principles.<br><br>- 🔭 I’m currently working on scalable Angular enterprise apps<br>- 🌱 Learning: Advanced JavaScript, React, and DSA<br>- 👩🏽‍💻 Passionate about UI/UX, accessibility, and component architecture<br>- 🛠️ Tools I use: Angular • TypeScript • RxJS • Tailwind CSS • Nx • Framer Motion • Figma • Git<br>- 📐 UI-focused with a design-first mindset (check out my portfolio!)<br>- 🤝 I love collaborating, mentoring, and contributing to clean, maintainable codebases<br><br>📫 Reach me: [annmweru9@gmail.com](mailto:annmweru9@gmail.com)  <br>🌍 Portfolio: [annahmweru-dev.netlify.app](https://annahmweru-dev.netlify.app)
+# Hi, I'm Annah Mweru 👋
 
+### Frontend Engineer | Angular & TypeScript | Building toward Full-Stack Development
 
+I am a Frontend Engineer based in Kenya with 4+ years of experience building API-driven web applications for government and financial-services environments. My core strength is building maintainable Angular and TypeScript interfaces, integrating REST APIs, and supporting reliable production releases.
+
+I enjoy turning complex workflows into clear, responsive user experiences and writing clean, testable code.
+
+## What I work with
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, RxJS, NgRx
+- **API integration:** REST APIs, JSON, SOAP/XML, Swagger/OpenAPI
+- **Testing:** Jest, Jasmine, JUnit, Mockito, Postman
+- **Backend foundations:** Java, Spring Boot, Node.js, PostgreSQL, MongoDB
+- **Delivery & security:** Git, GitHub Actions, Docker, Kubernetes, JWT, OAuth 2.0, RBAC
+
+## Currently building and learning
+
+- 📱 Building Flutter applications and strengthening my Dart and mobile-development skills
+- ☕ Learning Java and Spring Boot to grow into an Angular + Java full-stack engineer
+- 🧠 Practising data structures and algorithms
+- ⚛️ Exploring React through hands-on projects
+- ♿ Improving my knowledge of accessible, responsive, and high-performance frontend development
+
+## Selected work
+
+- **Angular enterprise applications:** Built reusable components and API-driven workflows for land-search, lease-application, and sectional-registration journeys.
+- **Bulk certificate processing:** Built a Node.js service for batch generation and printing of Certificates of Title or Leases for approved sectional plans.
+- **Flutter projects:** Building mobile applications with Flutter and Dart.  
+  _Add your best Flutter repository links here._
+- **Spring Boot projects:** Building REST APIs and full-stack applications with Java and Spring Boot.  
+  _Add your best Spring Boot repository links here._
+
+## Find me online
+
+- 📫 Email: [annmweru9@gmail.com](mailto:annmweru9@gmail.com)
+- 🌐 Portfolio: [annahmweru-dev.netlify.app](https://annahmweru-dev.netlify.app)
+- 💼 LinkedIn: [linkedin.com/in/annahmweru/](https://www.linkedin.com/in/annahmweru/))
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/annahmweru-dev.netlify.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anniemwesh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/annahmweru/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/annmweru1) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ANNAH MWERU NICHOLA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:annmweru9@gmail.com) 
 
